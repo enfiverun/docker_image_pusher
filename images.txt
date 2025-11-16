@@ -7,4 +7,5 @@ xhofe/alist:latest
 mysql:5.7
 hello-world
 wordpress
+openjdk:11-jdk-slim
 bitnami/redis
